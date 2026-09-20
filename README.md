@@ -7,7 +7,7 @@ Research for buying a 2.0 ton wall-mounted DC inverter AC for a 7 x 4 m hall. Re
 - `docs/2-ton-ac-comparison-2026-09-20.md`: the main report. Combined 106-row table across Japan Electronics, Umar Electronics and Friends Electronics, shortlist, same-model price differences, contradictions with the shop's verbal quotes, owner-review summaries.
 - `docs/follow-up-notes.md`: brand satisfaction ratings, best Gree model and where to buy it, store addresses, 1.5 vs 2 ton sizing.
 - `docs/combined-table.md`: the raw price-sorted table on its own.
-- `ac-faceoff.html`: interactive comparison tool. Open it in a browser, pick any two models, and read every captured spec side by side with differences highlighted. Also published at https://claude.ai/artifact/KzBfw2x5Nrnw7gbtDb1bno (private link).
+- `index.html` (GitHub Pages) and `ac-faceoff.html` (same page in artifact form): interactive comparison tool. Open it in a browser, pick any two models, and read every captured spec side by side with differences highlighted. Also published at https://claude.ai/artifact/KzBfw2x5Nrnw7gbtDb1bno (private link).
 - `data/`: raw captures used for the tables. Japan Electronics Shopify product feeds, Umar Electronics WooCommerce Store API responses, Friends Electronics category scrape, Kenwood Pakistan official product feed, plus the stripped spec text extracted from each listing.
 - `scripts/build_table.py`: builds `docs/combined-table.md` from the hand-verified row data.
 
